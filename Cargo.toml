@@ -5,4 +5,5 @@ resolver = "2"
 members = [
     "hello_cargo",
     "guessing_game",
+    "fibonacci"
 ]
